@@ -1,0 +1,27 @@
+python:
+subprocess
+sys
+os
+argparse
+datetime
+pyfastx
+pysam
+re
+pandas
+
+R:
+getopt
+tidyverse
+diann
+plyr
+ComplexHeatmap
+ggsci
+Rtsne
+Hmisc
+Biostrings
+stringr
+rtracklayer
+
+other tools:
+blast
+gffread
